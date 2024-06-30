@@ -1,0 +1,31 @@
+Customer_ID,Date,Query,Agent_Response,Satisfaction_Rating
+31,2024-06-16,How can I update my email address?,"You can update your email address in the ""Account Settings"" section after logging in.",5
+32,2024-06-16,Do you offer student discounts?,Yes, we offer a 10% student discount with a valid student ID.,4
+33,2024-06-17,What is your exchange policy?,We offer exchanges within 30 days of purchase for items in their original condition.,4
+34,2024-06-17,How do I activate my gift card?,"You can activate your gift card by entering the code on our website under ""Gift Card Activation"".",5
+35,2024-06-18,Can I change my order after it's been placed?,You can modify your order within 2 hours of placing it by contacting customer service.,3
+36,2024-06-18,Do you have a loyalty program?,Yes, we have a loyalty program where you earn points on every purchase.,5
+37,2024-06-19,How do I check my order status?,"You can check your order status by logging into your account and viewing ""Order History"".",4
+38,2024-06-19,What is your privacy policy?,"Our privacy policy can be found on our website under the ""Legal"" section.",4
+39,2024-06-20,Do you offer gift certificates?,Yes, we offer digital gift certificates that can be emailed to the recipient.,5
+40,2024-06-20,How do I remove an item from my cart?,To remove an item from your cart," click the ""X"" next to the item on the cart page.",5
+41,2024-06-21,What is your price adjustment policy?,We offer price adjustments within 14 days of purchase if the item goes on sale.,4
+42,2024-06-21,How do I report a website issue?,You can report website issues by emailing our tech support at techsupport@example.com.,3
+43,2024-06-22,Do you have a mobile app?,Yes, our mobile app is available for both iOS and Android devices.,5
+44,2024-06-22,What is the minimum order amount for free shipping?,Orders over $50 qualify for free standard shipping.,4
+45,2024-06-23,How do I redeem my loyalty points?,"You can redeem loyalty points during checkout by selecting ""Use Points"" in the payment section.",5
+46,2024-06-23,Can I change the currency on your website?,Yes, you can change the currency using the dropdown menu in the top right corner of our website.,4
+47,2024-06-24,Do you offer assembly services?,We do not offer assembly services, but assembly instructions are included with all products.,3
+48,2024-06-24,How do I sign up for text notifications?,"You can sign up for text notifications in your account settings under ""Communication Preferences"".",5
+49,2024-06-25,What is your price match guarantee?,We match prices from authorized retailers within 7 days of purchase.,4
+50,2024-06-25,How do I request a catalog?,"You can request a catalog by filling out the form on our ""Request Catalog"" page.",5
+51,2024-06-26,Do you offer eco-friendly packaging?,Yes, we use recyclable and biodegradable packaging materials for all our shipments.,5
+52,2024-06-26,How do I check my gift card balance?,"You can check your gift card balance on our website under ""Gift Card Balance Check"".",4
+53,2024-06-27,What is your late delivery policy?,If your order is delivered late, we offer a 10% refund on your shipping costs.,4
+54,2024-06-27,How do I set up recurring orders?,"You can set up recurring orders in your account under ""Subscriptions and Auto-Refills"".",5
+55,2024-06-28,Do you offer military discounts?,Yes, we offer a 15% military discount with valid identification.,5
+56,2024-06-28,How do I access my digital downloads?,"You can access your digital downloads in your account under ""My Downloads"".",4
+57,2024-06-29,What is your backorder policy?,Backordered items will ship as soon as they're available, and you'll only be charged when they ship.,3
+58,2024-06-29,How do I submit a product suggestion?,"You can submit product suggestions through our ""Product Feedback"" form on the website.",4
+59,2024-06-30,Do you offer trade-in programs?,We currently do not offer trade-in programs for our products.,3
+60,2024-06-30,How can I become an affiliate?,"You can apply to become an affiliate through our ""Affiliate Program"" page on the website.",5

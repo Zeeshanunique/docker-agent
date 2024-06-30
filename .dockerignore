@@ -1,0 +1,13 @@
+.dockerignore
+.env
+__pycache__
+*.рус
+*.pyo
+*.pyd
+.Python
+venv
+env
+pip-log.txt
+pip-delete-this-directory.txt
+.git    
+.gitignore
